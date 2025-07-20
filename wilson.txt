@@ -1,0 +1,6 @@
+
+top 10 c++ oop style guideline 
+using c++ 11 with Description, usage, Purpose, before and after
+
+top 100 c++ 11 high frequency q&a with why use it from easy to hard
+
